@@ -1,0 +1,13 @@
+{
+  "name": "npmex-chrome-launcher",
+  "manifest_version": 2,
+  "description": "Open npm explorer in new tab",
+  "browser_action": {
+    "default_title": "Open npm explorer",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+
+  ],
+  "version": "1.0"
+}
